@@ -1,3 +1,3 @@
 # MemeGolf
 
-A esolang based on PPCG memes.
+A esolang based on SE memes.
